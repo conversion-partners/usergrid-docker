@@ -1,12 +1,12 @@
 [submodule "elasticsearch"]
 	path = elasticsearch
-	url = https://github.com/yep/usergrid-elasticsearch
+	url = https://github.com/conversion-partners/usergrid-elasticsearch
 [submodule "java"]
 	path = java
-	url = https://github.com/yep/usergrid-java
+	url = https://github.com/conversion-partners/usergrid-java
 [submodule "cassandra"]
 	path = cassandra
-	url = https://github.com/yep/usergrid-cassandra
+	url = https://github.com/conversion-partners/usergrid-cassandra
 [submodule "portal"]
 	path = portal
-	url = https://github.com/yep/usergrid-portal
+	url = https://github.com/conversion-partners/usergrid-portal
